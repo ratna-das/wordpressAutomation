@@ -1,8 +1,0 @@
-# ignore all logs
-*.log
-# ignore all idea files
-*.idea
-# ignore all .iml
-*.iml 
-# ignore all logs
-*.log
